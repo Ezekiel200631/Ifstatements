@@ -9,8 +9,9 @@ public class WhileLoops
 {
 
     public WhileLoops()  {
+       
         {
-            int i = 0; 
+                int i = 0; 
             while ( i < 15 ) { 
                 System.out.println("i is " + i + "but is less than 15");    
                 i++;
