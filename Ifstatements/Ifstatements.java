@@ -1,4 +1,4 @@
-public class HelloWorld
+public class Ifstatements
 {
 
     
@@ -49,7 +49,7 @@ public class HelloWorld
     
     public static void main(String[] args)
     {        
-        HelloWorld hw = new HelloWorld();
+        Ifstatements hw = new Ifstatements();
         hw.run();
     }
 }
